@@ -1,3 +1,5 @@
+// use extra array is better than changing content inside M
+// and counting 1-D is faster than 2-D
 var findCircleNum = function(M) {
     let ans = 0
     let isVisited = []
