@@ -1,3 +1,4 @@
+// disjoint-set data structure
 var findRedundantConnection = function(edges) {
     const disjoint_set = new UnionFind(edges.length);
     for(let edge of edges) {
