@@ -21,3 +21,8 @@
 
 #### 774 - [Find Smallest Letter Greater Than Target](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinarySearch/774-FindSmallestLetterGreaterThanTarget.js)
 - https://leetcode.com/problems/find-smallest-letter-greater-than-target
+
+## Math
+
+#### 728 - [Self Dividing Numbers](https://github.com/yichunhuang/leetcode-javascript/blob/master/Math/728-SelfDividingNumbers.js)
+- https://leetcode.com/problems/self-dividing-numbers
