@@ -16,6 +16,9 @@
 #### 684 - [Redundant Connection](https://github.com/yichunhuang/leetcode-javascript/blob/master/Graph/684-RedundantConnection.js)
 - https://leetcode.com/problems/redundant-connection
 
+#### 690 - [Employee Importance](https://github.com/yichunhuang/leetcode-javascript/blob/master/Graph/690-EmployeeImportance.js)
+
+- https://leetcode.com/problems/employee-importance/
 
 ## BinarySearch
 
