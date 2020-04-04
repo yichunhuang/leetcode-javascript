@@ -10,6 +10,9 @@
 #### 200 - [Number Of Islands](https://github.com/yichunhuang/leetcode-javascript/blob/master/Graph/200-NumberOfIslands.js)
 - https://leetcode.com/problems/number-of-islands
 
+#### 207 - [Course Schedule](https://github.com/yichunhuang/leetcode-javascript/blob/master/Graph/207-CourseSchedule.js)
+- https://leetcode.com/problems/course-schedule/
+
 #### 547 - [Friend Circle](https://github.com/yichunhuang/leetcode-javascript/blob/master/Graph/547-FriendCircle.js)
 - https://leetcode.com/problems/friend-circles
 
