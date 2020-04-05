@@ -39,6 +39,10 @@
 
 *Level: Medium*
 
+#### 1305 - [All Elements in Two Binary Search Trees](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1305-AllElementsinTwoBinarySearchTrees.js)
+
+- https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+
 #### 1339 - [Maximum Product of Splitted Binary Tree](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1339-MaximumProductofSplittedBinaryTree.js)
 
 - https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
