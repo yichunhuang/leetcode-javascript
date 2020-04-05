@@ -31,6 +31,13 @@
 #### 774 - [Find Smallest Letter Greater Than Target](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinarySearch/774-FindSmallestLetterGreaterThanTarget.js)
 - https://leetcode.com/problems/find-smallest-letter-greater-than-target
 
+## BinaryTrees
+
+*Level: Medium*
+#### 1382 - [Balance a Binary Search Tree](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1382-BalanceaBinarySearchTree.js)
+
+- https://leetcode.com/problems/balance-a-binary-search-tree/
+
 ## Math
 
 #### 728 - [Self Dividing Numbers](https://github.com/yichunhuang/leetcode-javascript/blob/master/Math/728-SelfDividingNumbers.js)
