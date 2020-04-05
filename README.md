@@ -38,6 +38,11 @@
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 
 *Level: Medium*
+
+#### 1339 - [Maximum Product of Splitted Binary Tree](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1339-MaximumProductofSplittedBinaryTree.js)
+
+- https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
+
 #### 1382 - [Balance a Binary Search Tree](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1382-BalanceaBinarySearchTree.js)
 
 - https://leetcode.com/problems/balance-a-binary-search-tree/
