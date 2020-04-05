@@ -33,6 +33,10 @@
 
 ## BinaryTrees
 
+*Level: Easy*
+#### 108 - [Convert Sorted Array to Binary Search Tree](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/108-ConvertSortedArraytoBinarySearchTree.js)
+- https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
 *Level: Medium*
 #### 1382 - [Balance a Binary Search Tree](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1382-BalanceaBinarySearchTree.js)
 
