@@ -39,6 +39,10 @@
 
 *Level: Medium*
 
+#### 1296 - [DivideArrayinSetsofKConsecutiveNumbers](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1296-DivideArrayinSetsofKConsecutiveNumbers.js)
+
+- https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
+
 #### 1305 - [All Elements in Two Binary Search Trees](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1305-AllElementsinTwoBinarySearchTrees.js)
 
 - https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
