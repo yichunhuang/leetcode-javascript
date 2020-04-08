@@ -39,9 +39,14 @@
 
 *Level: Medium*
 
+
 #### 116 - [Populating Next Right Pointers in Each Node](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/116-PopulatingNextRightPointersinEachNode.js)
 
 - https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+
+#### 1110 - [Delete Nodes And Return Forest](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1110-DeleteNodesAndReturnForest.js)
+
+- https://leetcode.com/problems/delete-nodes-and-return-forest/
 
 #### 1296 - [Divide Array in Sets of K Consecutive Numbers](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1296-DivideArrayinSetsofKConsecutiveNumbers.js)
 
