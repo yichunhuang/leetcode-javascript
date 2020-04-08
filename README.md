@@ -48,6 +48,10 @@
 
 - https://leetcode.com/problems/delete-nodes-and-return-forest/
 
+#### 1145 - [Binary Tree Coloring Game](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1145-BinaryTreeColoringGame.js)
+
+- https://leetcode.com/problems/binary-tree-coloring-game/
+
 #### 1296 - [Divide Array in Sets of K Consecutive Numbers](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1296-DivideArrayinSetsofKConsecutiveNumbers.js)
 
 - https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
