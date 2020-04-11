@@ -44,6 +44,10 @@
 
 - https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 
+#### 979 - [Distribute Coins in Binary Tree](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/979-DistributeCoinsinBinaryTree.js)
+
+- https://leetcode.com/problems/distribute-coins-in-binary-tree/
+
 #### 1110 - [Delete Nodes And Return Forest](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/1110-DeleteNodesAndReturnForest.js)
 
 - https://leetcode.com/problems/delete-nodes-and-return-forest/
