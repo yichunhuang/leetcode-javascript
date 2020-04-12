@@ -44,6 +44,14 @@
 
 - https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 
+#### 889 - [Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/889-ConstructBinaryTreefromPreorderandPostorderTraversal.js)
+
+- https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
+
+#### 894 - [All Possible Full Binary Trees](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/894-AllPossibleFullBinaryTrees.js)
+
+- https://leetcode.com/problems/all-possible-full-binary-trees/
+
 #### 979 - [Distribute Coins in Binary Tree](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinaryTrees/979-DistributeCoinsinBinaryTree.js)
 
 - https://leetcode.com/problems/distribute-coins-in-binary-tree/
