@@ -87,5 +87,7 @@
 
 ## Dynamic Programming
 
+*Level: Hard*
+
 #### 1312 - [Minimum Insertion Steps to Make a String Palindrome](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/1312-MinimumInsertionStepstoMakeaStringPalindrome.js)
 - https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
