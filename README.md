@@ -87,6 +87,12 @@
 
 ## Dynamic Programming
 
+*Level: Medium*
+
+#### 1310 - [XOR Queries of a Subarray](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/1310-XORQueriesofaSubarray.js)
+
+- https://leetcode.com/problems/xor-queries-of-a-subarray/
+
 *Level: Hard*
 
 #### 1312 - [Minimum Insertion Steps to Make a String Palindrome](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/1312-MinimumInsertionStepstoMakeaStringPalindrome.js)
