@@ -89,6 +89,10 @@
 
 *Level: Medium*
 
+#### 5 - [Longest Palindromic Substring](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/5-LongestPalindromicSubstring.js)
+
+- https://leetcode.com/problems/longest-palindromic-substring/
+
 #### 1310 - [XOR Queries of a Subarray](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/1310-XORQueriesofaSubarray.js)
 
 - https://leetcode.com/problems/xor-queries-of-a-subarray/
