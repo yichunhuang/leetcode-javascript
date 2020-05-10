@@ -93,6 +93,10 @@
 
 - https://leetcode.com/problems/longest-palindromic-substring/
 
+#### 1292 - [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/1292-MaximumSideLengthofaSquarewithSumLessthanorEqualtoThreshold.js)
+
+- https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
+
 #### 1310 - [XOR Queries of a Subarray](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/1310-XORQueriesofaSubarray.js)
 
 - https://leetcode.com/problems/xor-queries-of-a-subarray/

@@ -25,7 +25,6 @@ var longestPalindrome = function(s) {
         if (curMaxLen > maxLen) {
             maxLen = curMaxLen
             startIndex = i - Math.floor((curMaxLen - 1) / 2)
-            console.log('startIndex', startIndex)
         }
     }
 
