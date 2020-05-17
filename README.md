@@ -93,6 +93,10 @@
 
 - https://leetcode.com/problems/longest-palindromic-substring/
 
+#### 1105 - [Filling Bookcase Shelves](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/1105-FillingBookcaseShelves.js)
+
+- https://leetcode.com/problems/filling-bookcase-shelves/
+
 #### 1292 - [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/1292-MaximumSideLengthofaSquarewithSumLessthanorEqualtoThreshold.js)
 
 - https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
