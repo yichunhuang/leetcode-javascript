@@ -93,6 +93,10 @@
 
 - https://leetcode.com/problems/longest-palindromic-substring/
 
+#### 1043 - [Partition Array for Maximum Sum](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/1043-PartitionArrayforMaximumSum.js)
+
+- https://leetcode.com/problems/partition-array-for-maximum-sum/
+
 #### 1105 - [Filling Bookcase Shelves](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/1105-FillingBookcaseShelves.js)
 
 - https://leetcode.com/problems/filling-bookcase-shelves/
