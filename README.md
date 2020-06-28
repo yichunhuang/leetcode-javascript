@@ -93,6 +93,10 @@
 
 - https://leetcode.com/problems/longest-palindromic-substring/
 
+#### 486 - [Predict the Winner](ttps://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/486-PredicttheWinner.js)
+
+- https://leetcode.com/problems/predict-the-winner/
+
 #### 1043 - [Partition Array for Maximum Sum](https://github.com/yichunhuang/leetcode-javascript/blob/master/DynamicProgramming/1043-PartitionArrayforMaximumSum.js)
 
 - https://leetcode.com/problems/partition-array-for-maximum-sum/
