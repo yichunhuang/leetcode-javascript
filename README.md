@@ -130,3 +130,9 @@
 
 #### 728 - [Self Dividing Numbers](https://github.com/yichunhuang/leetcode-javascript/blob/master/Math/728-SelfDividingNumbers.js)
 - https://leetcode.com/problems/self-dividing-numbers
+
+
+## Simulation
+
+#### 289 - [Game Of Life](https://github.com/yichunhuang/leetcode-javascript/blob/master/Simulation/289-GameOfLife.js)
+- https://leetcode.com/problems/game-of-life/
