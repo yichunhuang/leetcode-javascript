@@ -8,6 +8,9 @@
 
 ## BinarySearch
 
+#### 208 - [Implement Trie](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinarySearch/208-ImplementTrie.js)
+- https://leetcode.com/problems/implement-trie-prefix-tree/
+
 #### 774 - [Find Smallest Letter Greater Than Target](https://github.com/yichunhuang/leetcode-javascript/blob/master/BinarySearch/774-FindSmallestLetterGreaterThanTarget.js)
 - https://leetcode.com/problems/find-smallest-letter-greater-than-target
 
