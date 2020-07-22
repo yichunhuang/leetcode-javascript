@@ -67,7 +67,11 @@
 
 *Level: Medium*
 
-#### 79 - [79-WordSearch.js](https://github.com/yichunhuang/leetcode-javascript/blob/master/DFS/79-WordSearch.js)
+#### 78 - [Subsets](https://github.com/yichunhuang/leetcode-javascript/blob/master/DFS/78-Subsets.js)
+
+- https://leetcode.com/problems/subsets/
+
+#### 79 - [Word Search](https://github.com/yichunhuang/leetcode-javascript/blob/master/DFS/79-WordSearch.js)
 
 - https://leetcode.com/problems/word-search/
 
