@@ -133,6 +133,11 @@
 #### 1334 - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://github.com/yichunhuang/leetcode-javascript/blob/master/Graph/1334-FindtheCityWiththeSmallestNumberofNeighbors.js)
 - https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
 
+## HashTable
+
+#### 1488 - [Avoid Flood in The City](https://github.com/yichunhuang/leetcode-javascript/blob/master/HashTable/1488-AvoidFloodinTheCity.js)
+- https://leetcode.com/problems/avoid-flood-in-the-city/
+
 ## Math
 
 #### 728 - [Self Dividing Numbers](https://github.com/yichunhuang/leetcode-javascript/blob/master/Math/728-SelfDividingNumbers.js)
