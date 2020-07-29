@@ -135,6 +135,9 @@
 
 ## HashTable
 
+#### 1124 - [Longest Well-Performing Interval](https://github.com/yichunhuang/leetcode-javascript/blob/master/HashTable/1124-LongestWell-PerformingInterval.js)
+- https://leetcode.com/problems/longest-well-performing-interval/
+
 #### 1488 - [Avoid Flood in The City](https://github.com/yichunhuang/leetcode-javascript/blob/master/HashTable/1488-AvoidFloodinTheCity.js)
 - https://leetcode.com/problems/avoid-flood-in-the-city/
 
