@@ -12,9 +12,9 @@ const knapsack = (values, weights, maxWeightConstraint) => {
 	for (let i = 0; i < row; i++) {
 		dp[i] = []
 		for (let j = 0; j < column; j++) {
-			if (i === 0) [
+			if (i === 0) {
 				dp[i][j] = 0
-			]
+			}
 			else if (j === 0) {
 				dp[i][j] = 0
 			}
