@@ -20,7 +20,7 @@ var regionsBySlashes = function (grid) {
 	}
 
 	for (let row = 0; row < n; row++) {
-		for (let col = 0; col < grid[row].length; col++) {
+		for (let col = 0; col < n; col++) {
 			if (grid[row][col] == " ") {
 				union(`${row}-${col}-${0}`, `${row}-${col}-${1}`)
 				union(`${row}-${col}-${0}`, `${row}-${col}-${2}`)
@@ -30,7 +30,7 @@ var regionsBySlashes = function (grid) {
 					union(`${row}-${col - 1}-${2}`, `${row}-${col}-${0}`)
 				}
 
-				if (col < grid[row].length - 1) {
+				if (col < n - 1) {
 					union(`${row}-${col + 1}-${0}`, `${row}-${col}-${2}`)
 				}
 
@@ -38,7 +38,7 @@ var regionsBySlashes = function (grid) {
 					union(`${row - 1}-${col}-${3}`, `${row}-${col}-${1}`)
 				}
 
-				if (row < n) {
+				if (row < n - 1) {
 					union(`${row + 1}-${col}-${1}`, `${row}-${col}-${3}`)
 				}
 			} else if (grid[row][col] == "/") {
@@ -49,7 +49,7 @@ var regionsBySlashes = function (grid) {
 					union(`${row}-${col - 1}-${2}`, `${row}-${col}-${0}`)
 				}
 
-				if (col < grid[row].length - 1) {
+				if (col < n - 1) {
 					union(`${row}-${col + 1}-${0}`, `${row}-${col}-${2}`)
 				}
 
@@ -57,7 +57,7 @@ var regionsBySlashes = function (grid) {
 					union(`${row - 1}-${col}-${3}`, `${row}-${col}-${1}`)
 				}
 
-				if (row < n) {
+				if (row < n - 1) {
 					union(`${row + 1}-${col}-${1}`, `${row}-${col}-${3}`)
 				}
 			} else if (grid[row][col] == "\\") {
@@ -68,7 +68,7 @@ var regionsBySlashes = function (grid) {
 					union(`${row}-${col - 1}-${2}`, `${row}-${col}-${0}`)
 				}
 
-				if (col < grid[row].length - 1) {
+				if (col < n - 1) {
 					union(`${row}-${col + 1}-${0}`, `${row}-${col}-${2}`)
 				}
 
@@ -76,7 +76,7 @@ var regionsBySlashes = function (grid) {
 					union(`${row - 1}-${col}-${3}`, `${row}-${col}-${1}`)
 				}
 
-				if (row < n) {
+				if (row < n - 1) {
 					union(`${row + 1}-${col}-${1}`, `${row}-${col}-${3}`)
 				}
 			}
@@ -84,6 +84,7 @@ var regionsBySlashes = function (grid) {
 	}
 
 	let cc = 0
+	// console.log(parent_map)
 	for (key in parent_map) {
 		if (key == find(key)) {
 			cc++
@@ -103,16 +104,20 @@ var regionsBySlashes = function (grid) {
 	}
 };
 
-const ans1 = regionsBySlashes([
-	" /",
-	"/ "
-])
+// const ans1 = regionsBySlashes([
+// 	" /",
+// 	"/ "
+// ])
 
-console.log(ans1) // 2
+// console.log(ans1) // 2
 
-const ans2 = regionsBySlashes([
-	"\\/",
-	"/\\"
-])
+// const ans2 = regionsBySlashes([
+// 	"\\/",
+// 	"/\\"
+// ])
 
-console.log(ans2) // 4
+// console.log(ans2) // 4
+
+
+const ans3 = regionsBySlashes(["/\\", "\\/"])
+console.log(ans3) //
