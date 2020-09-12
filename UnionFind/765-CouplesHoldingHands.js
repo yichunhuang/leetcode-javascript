@@ -9,6 +9,8 @@
 利用UnionFind
 只要交換一次就把這兩對 couple cc 起來 並計次數
 已經 cc 過的就不用再換了代表他們位置是對的
+
+couple 在 UF 裡是同一節點，操作的技巧用 Math.floor
 */
 
 var minSwapsCouples = function (row) {
@@ -35,10 +37,10 @@ var minSwapsCouples = function (row) {
 	let result = 0
 	const n = parseInt(row.length / 2)
 	const UF = new UnionFind(n)
-	for (let i = 0; i < n; i++) {
+	for (let i = 0; i < n; i++) { // 第 i 組 couple
 		const a = Math.floor(row[2 * i] / 2)
 		const b = Math.floor(row[2 * i + 1] / 2)
-		if (UF.find(a) != UF.find(b)) {
+		if (UF.find(a) != UF.find(b)) {  // 非 couple 或 非連結過的 couples
 			result++
 			UF.union(a, b)
 		}
