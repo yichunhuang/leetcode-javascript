@@ -17,7 +17,7 @@ var accountsMerge = function (accounts) {
 
 	for (let i = 0; i < accounts.length; i++) {
 		for (let j = 2; j < accounts[i].length; j++) {
-			union(accounts[i][1], accounts[i][j])
+			union(accounts[i][1], accounts[i][j]) // same group
 		}
 	}
 	// console.log(parent_map)
