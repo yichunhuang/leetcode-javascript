@@ -10,7 +10,7 @@ function preorder_iteration(root) {
 		const node = stack.pop()
 		result.push(node.val)
 
-		if (node.right) {
+		if (node.right) { // stack 特性
 			stack.push(node.right)
 		}
 
