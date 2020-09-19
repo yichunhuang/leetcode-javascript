@@ -1,3 +1,4 @@
+// 用一個 circular array 實作 queue
 class MyCircularQueue {
 	constructor(k = 0) {
 		this.head = 0
