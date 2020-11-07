@@ -3,6 +3,7 @@
  * @param {number[][]} prerequisites
  * @return {boolean}
  */
+// Course Schedule
 var canFinish = function (numCourses, prerequisites) {
 	const map = {}
 	const state = [] // 0: not visit, 1: visiting, 2: visited
